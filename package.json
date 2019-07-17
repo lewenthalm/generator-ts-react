@@ -1,0 +1,21 @@
+{
+  "name": "generator-ts-react",
+  "version": "0.1.0",
+  "description": "Yeoman generator for React apps written in Typescript.",
+  "author": {
+    "name" : "Marc Lewenthal",
+    "email" : "marc@lewenthal.com",
+    "url" : "https://lewenthal.com/"
+  },
+  "license" : "MIT",
+  "private": true,
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  }
+}

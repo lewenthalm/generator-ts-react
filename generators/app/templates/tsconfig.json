@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "./out-tsc/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "allowJs": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
